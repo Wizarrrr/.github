@@ -1,10 +1,9 @@
-<center>
+<p align="center">
 <img src="https://raw.githubusercontent.com/Wizarrrr/wizarr/master/apps/wizarr-frontend/src/assets/img/wizard.png" width="100">
 
-# Wizarr
-
-Welcome to the official GitHub repository of Wizarr! 🎉
-</center>
+<h1 align="center">Wizarr</h1>
+<h4 align="center">Welcome to the official GitHub repository of Wizarr! 🎉</h4>
+</p>
 <hr>
 
 ## About Us
