@@ -1,49 +1,44 @@
-# My Awesome Organization
+<center>
+<img src="https://raw.githubusercontent.com/Wizarrrr/.github/main/profile/wizard.png" width="100">
 
-Welcome to the official GitHub repository of My Awesome Organization! 🎉
+# Wizarr
+
+Welcome to the official GitHub repository of Wizarr! 🎉
+</center>
+<hr>
 
 ## About Us
 
-We are a group of passionate individuals dedicated to creating amazing projects and contributing to the open-source community. Our mission is to [provide a brief description of your organization's mission or goals].
+We are a group of passionate individuals dedicated to creating amazing piece of open-source software for managing Plex & Jellyfin media servers. We do other stuff too but we will let you explore 🥳
 
 ## Projects
 
-### Project 1: [Project Name 1](link-to-project-1)
+### [Wizarr](https://github.com/wizarrrr/wizarr)
 
-Description of Project 1.
-
-[![Project 1](link-to-project-1-thumbnail)](link-to-project-1)
-
-### Project 2: [Project Name 2](link-to-project-2)
-
-Description of Project 2.
-
-[![Project 2](link-to-project-2-thumbnail)](link-to-project-2)
-
-...
+Wizarr, a tool for managing Jellyfin & Plex server through a simple user friendly Web GUI.
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to any of our projects, please follow our [contribution guidelines](link-to-contributing-guide).
+We welcome contributions from the community! If you'd like to contribute to any of our projects, please speak to someone on our Discord.
 
 ## Team
 
-Meet the awesome people behind My Awesome Organization:
+Meet the awesome people behind Wizarr:
 
-- [Team Member 1](link-to-team-member-1)
-- [Team Member 2](link-to-team-member-2)
-- ...
+- [realashleybailey](https://github.com/realashleybailey)
+- [mtthidoteu](https://github.com/mtthidoteu)
+- [JamsRepos](https://github.com/JamsRepos)
+- [bleak183](https://github.com/bleak183)
+- [neoestremi](https://github.com/neoestremi)
 
 ## Connect with Us
 
-- [Website](link-to-organization-website)
-- [Twitter](link-to-twitter)
-- [LinkedIn](link-to-linkedin)
+- [Website](https://wizarr.dev)
+- [YouTube](https://youtube.com/@wizarrrr)
+- [Discord](https://discord.gg/NYxwcjCK9x)
 
 Feel free to reach out to us if you have any questions, suggestions, or just want to say hello!
 
 ## License
 
-This organization and its projects are licensed under the [License Name] - see the [LICENSE.md](link-to-license-file) file for details.
-
-
+This organization and its projects are licensed under the MIT license except where otherwise stated.
