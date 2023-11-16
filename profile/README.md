@@ -1,5 +1,5 @@
 <center>
-<img src="https://raw.githubusercontent.com/Wizarrrr/.github/main/profile/wizard.png" width="100">
+<img src="https://raw.githubusercontent.com/Wizarrrr/wizarr/master/apps/wizarr-frontend/src/assets/img/wizard.png" width="100">
 
 # Wizarr
 
