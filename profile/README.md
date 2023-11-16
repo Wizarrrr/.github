@@ -13,7 +13,6 @@ We are a group of passionate individuals dedicated to creating amazing piece of 
 ## Projects
 
 ### [Wizarr](https://github.com/wizarrrr/wizarr)
-
 Wizarr, a tool for managing Jellyfin & Plex server through a simple user friendly Web GUI.
 
 ## Contributing
